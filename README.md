@@ -38,20 +38,4 @@ Asides Frontend development, I work as a UI/UX designer, where I help create and
   </tr>
   </table>
 
-## WakaTime 
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 August 2026 - To: 22 August 2026
-
-Total Time: 13 hrs 33 mins
-
-TypeScript   8 hrs 36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.52 %
-Python       2 hrs 47 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.61 %
-Other        50 mins               ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.23 %
-JSON         33 mins               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.07 %
-Markdown     18 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.22 %
-```
-
-<!--END_SECTION:waka-->
 [![Jonnie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonniie&theme=react-dark)](https://github.com/Jonniie/github-readme-activity-graph)
